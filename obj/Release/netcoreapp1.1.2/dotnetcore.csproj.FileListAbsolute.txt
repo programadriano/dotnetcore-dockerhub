@@ -1,0 +1,8 @@
+/home/tadriano/Documents/core/dotnetcore-dockerhub/bin/Release/netcoreapp1.1.2/dotnetcore.deps.json
+/home/tadriano/Documents/core/dotnetcore-dockerhub/bin/Release/netcoreapp1.1.2/dotnetcore.runtimeconfig.json
+/home/tadriano/Documents/core/dotnetcore-dockerhub/bin/Release/netcoreapp1.1.2/dotnetcore.runtimeconfig.dev.json
+/home/tadriano/Documents/core/dotnetcore-dockerhub/bin/Release/netcoreapp1.1.2/dotnetcore.dll
+/home/tadriano/Documents/core/dotnetcore-dockerhub/bin/Release/netcoreapp1.1.2/dotnetcore.pdb
+/home/tadriano/Documents/core/dotnetcore-dockerhub/obj/Release/netcoreapp1.1.2/dotnetcore.AssemblyInfo.cs
+/home/tadriano/Documents/core/dotnetcore-dockerhub/obj/Release/netcoreapp1.1.2/dotnetcore.dll
+/home/tadriano/Documents/core/dotnetcore-dockerhub/obj/Release/netcoreapp1.1.2/dotnetcore.pdb
